@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/localForage",
+    "version": "v1.4.2",
+    "name": "localforage",
+    "main": "localforage.js"
+}
