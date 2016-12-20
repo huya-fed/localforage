@@ -8,6 +8,8 @@ https://localforage.github.io/localForage/
 
 http://www.cnblogs.com/dolphinX/p/3415761.html
 
+http://javascript.ruanyifeng.com/bom/indexeddb.html
+
 ---
 
 ## 使用说明
